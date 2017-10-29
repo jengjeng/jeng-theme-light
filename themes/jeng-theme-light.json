@@ -198,12 +198,11 @@
 		{
 			"name": "Variables, Function Argument",
 			"scope": [
-				"variable",
 				"support.variable",
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#F5871F"
+				"foreground": "#C82829"
 			}
 		},
 		{
