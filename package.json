@@ -2,20 +2,20 @@
     "name": "jeng-theme-light",
     "displayName": "Jeng Theme Light",
     "description": "The perfect peaceful combination of colors for light theme.",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "publisher": "jeng",
     "author": {
         "name": "Wittawat Jeng Patcharinsak"
     },
     "bugs": {
-        "url": "https://github.com/jengjeng/aural-coding-vscode/issues",
+        "url": "https://github.com/jengjeng/jeng-theme-light/issues",
         "email": "jeng.wittawat@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jengjeng/aural-coding-vscode.git"
+        "url": "https://github.com/jengjeng/jeng-theme-light.git"
     },
-    "homepage": "https://github.com/jengjeng/aural-coding-vscode/blob/master/README.md",
+    "homepage": "https://github.com/jengjeng/jeng-theme-light/blob/master/README.md",
     "keywords": [
         "sound",
         "voice",
@@ -23,7 +23,7 @@
         "keyboard",
         "fun"
     ],
-    "icon": "images/icon.jpg",
+    "icon": "assets/icon.png",
     "engines": {
         "vscode": "^1.17.0"
     },

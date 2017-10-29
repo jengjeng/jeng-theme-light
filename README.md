@@ -1,10 +1,6 @@
-![jeng-theme-light](assets/logo.png)
+![jeng-theme-light](assets/screenshot.png)
 
 The perfect peaceful combination of colors for light theme.
-
-## Screenshots
-
-![jeng-theme-light](assets/screenshot.jpg)
 
 ## Install
 
