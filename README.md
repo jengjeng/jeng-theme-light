@@ -5,7 +5,7 @@
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/jeng.jeng-theme-light.svg)](https://marketplace.visualstudio.com/items?itemName=jeng.jeng-theme-light)
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/r/jeng.jeng-theme-light.svg)](https://marketplace.visualstudio.com/items?itemName=jeng.jeng-theme-light)
 
-The perfect peaceful combination of colors for light theme for Visual Studio Code.
+The perfect peaceful combination of colors for light theme on Visual Studio Code.
 
 ## Install
 
