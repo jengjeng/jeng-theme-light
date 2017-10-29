@@ -2,7 +2,7 @@
     "name": "jeng-theme-light",
     "displayName": "Jeng Theme Light",
     "description": "The perfect peaceful combination of colors for light theme.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "jeng",
     "author": {
         "name": "Wittawat Jeng Patcharinsak"
@@ -17,11 +17,9 @@
     },
     "homepage": "https://github.com/jengjeng/jeng-theme-light/blob/master/README.md",
     "keywords": [
-        "sound",
-        "voice",
-        "audio",
-        "keyboard",
-        "fun"
+        "theme",
+        "light",
+        "jeng"
     ],
     "icon": "assets/icon.png",
     "engines": {
